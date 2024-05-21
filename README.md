@@ -1,6 +1,6 @@
 View it [here](https://ecommercestore2024.azurewebsites.net/)
 <br>
-C# ASP.NET controller-model-view with Entity Framework backend and jQuery Javascript frontend integrations to ensure dynamic data manipulation and a smooth user experience.  
+C# ASP.NET controller-model-view with Entity Framework backend and jQuery Javascript frontend integrations to ensure dynamic data manipulation and a smooth user experience.   
 ![Screenshot (77)](https://github.com/arthurshk/E-Commerce-Store/assets/135430504/cae67118-124b-4fce-bdc9-358e130cf7d6)
 ![Screenshot (50)](https://github.com/arthurshk/E-Commerce-Store/assets/135430504/56683a7d-bc38-4e0f-8d6d-bcab2f568e73)
 ![Screenshot (49)](https://github.com/arthurshk/E-Commerce-Store/assets/135430504/2372a703-9ce8-470a-a8d8-6d4452de72ba)
